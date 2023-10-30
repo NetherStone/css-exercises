@@ -47,4 +47,14 @@ a {
 
 ul {
   list-style-type: none;
+  display: flex;
+  margin: 3px;
+  padding: 5px;
+  padding-left: 20px;
+}
+
+li {
+  padding-left: 3px;
+  padding-right: 3px;
+  margin: 3px;
 }
