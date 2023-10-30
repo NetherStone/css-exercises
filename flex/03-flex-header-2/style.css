@@ -29,7 +29,6 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
-  margin: 8px;
 }
 
 button {
@@ -51,7 +50,7 @@ ul {
   display: flex;
   margin: 3px;
   padding: 5px;
-  padding-left: 10px;
+  padding-left: 20px;
 }
 
 li {
