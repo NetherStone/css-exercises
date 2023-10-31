@@ -18,30 +18,35 @@ img {
 .collection {
   display:flex;
   justify-content: center;
+  gap: 52px
 }
 
 .barberry{
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+  width: 200px;
 }
 
 .chili{
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+  width: 200px;
 }
 
 .pepper{
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+  width: 200px;
 }
 
 .saffron{
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+  width: 200px;
 }
 
 /* do not edit this footer */
