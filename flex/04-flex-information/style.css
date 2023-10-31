@@ -27,6 +27,7 @@ img {
   flex-wrap: wrap;
   width: 200px;
   align-items: center;
+  text-align: center;
 }
 
 /* do not edit this footer */
