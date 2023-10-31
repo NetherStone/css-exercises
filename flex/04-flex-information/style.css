@@ -21,32 +21,12 @@ img {
   gap: 52px
 }
 
-.barberry{
+.barberry, .chili, .pepper, .saffron{
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
   width: 200px;
-}
-
-.chili{
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  width: 200px;
-}
-
-.pepper{
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  width: 200px;
-}
-
-.saffron{
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  width: 200px;
+  align-items: center;
 }
 
 /* do not edit this footer */
