@@ -20,6 +20,30 @@ img {
   justify-content: center;
 }
 
+.barberry{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.chili{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.pepper{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.saffron{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
