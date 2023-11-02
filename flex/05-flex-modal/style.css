@@ -77,4 +77,11 @@ button.cancel {
 
 .same_row{
   display: flex;
+  justify-content: space-between;
+}
+
+.right{
+  display: flex;
+  flex-direction: column;
+  gap:10px
 }
