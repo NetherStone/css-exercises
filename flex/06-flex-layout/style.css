@@ -25,3 +25,16 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+.header {
+  display: flex;
+}
+
+ul.left-links, ul.right-links {
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+  color: gray;
+}
