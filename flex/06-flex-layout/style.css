@@ -29,11 +29,9 @@ input {
   margin-bottom: 16px;
 }
 
-.header, .footer {
+.header, .footer{
   display: flex;
   justify-content: space-between;
-  margin-left: 16px;
-  margin-right: 16px;
 }
 
 ul.left-links, ul.right-links {
@@ -43,7 +41,19 @@ ul.left-links, ul.right-links {
   padding: 0%;
 }
 
+ul.left-links {
+  margin-left: 15px;
+}
+
+ul.right-links {
+  margin-right: 15px;
+}
+
 a{
   text-decoration: none;
   color: gray;
+}
+
+.footer {
+  background-color: #eeeeee;
 }
