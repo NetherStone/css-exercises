@@ -35,6 +35,7 @@ body {
 a {
   text-decoration: none;
   color: white;
+  font-size: large;
 }
 
 ul {
@@ -45,9 +46,21 @@ ul {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  height: 300px;
+  width: 350px;
+  margin: 20px;
+  padding: 10px;
 }
 
 .middle {
   display: flex;
   flex-grow: 8;
+  gap: 36px;
+}
+
+.words {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 10px;
+  padding-right: 60px;
 }
